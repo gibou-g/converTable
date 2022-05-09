@@ -1,4 +1,4 @@
-![py versions](https://img.shields.io/pypi/pyversions/pandas?style=plastic) ![code style](https://img.shields.io/badge/code%20style-black-000000.svg) ![license](https://img.shields.io/apm/l/vim-mode)
+![py versions](https://img.shields.io/pypi/pyversions/pandas?style=plastic) ![code style](https://img.shields.io/badge/code%20style-black-000000.svg) ![license](https://img.shields.io/apm/l/vim-mode) [![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
 ![logo](doc/logos/converTable%20logo.png) 
 
 **converTable** is a python webapp hosted on `streamlit` to convert tabular data on images into structured data tables.
