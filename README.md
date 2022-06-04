@@ -15,6 +15,7 @@ converTable requires:
 - Python (>= 3.7)
 - Pandas
 - streamlit
+- OpenCV
 
 ___
 
