@@ -8,13 +8,23 @@ The project seeks to help digitize record keeping in the Gambia. Most informatio
 It is currently developed and maintained by [Gibril](https://gibrilgaye.super.site) and [Modou Lamin](https://www.linkedin.com/in/modou-lamin-m-803212128/)
 
 
-# Installation
+# To run locally
+1. Clone this repo
+2. Create a new conda environment and install requirements using `pip install -r requirements-dev.txt`.
+3. Run `streamlit run convertable/converTable_app.py` in your terminal
+
+Once we have a stable version, you will be able to run a no code version hosted in the cloud.
 
 ## Dependencies
 converTable requires:
 - Python (>= 3.7)
 - Pandas
 - streamlit
+- OpenCV
+
+## Streamlit App
+---
+![app preview](doc/logos/streamlit_app.png) 
 
 ___
 
