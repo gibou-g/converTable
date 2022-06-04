@@ -1,14 +1,15 @@
-# imports here 
+# imports here
+
 
 class Effects:
     def __init__(self):
-        pass 
+        pass
 
     def contrast(self, method):
-        pass 
+        pass
 
     def brightness(self, pct):
-        pass 
+        pass
 
     def sharpen(self):
         pass
