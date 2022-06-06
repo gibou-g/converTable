@@ -31,5 +31,3 @@ ___
 # Contributing
 Contributions are very welcome. To learn how to contribute, please see our [Contribution guide](CONTRIBUTING.md).
 
-## Testing
-
