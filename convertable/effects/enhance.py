@@ -1,9 +1,5 @@
-from skimage.filters import (
-    threshold_otsu,
-    threshold_mean,
-    threshold_minimum,
-    threshold_yen,
-)
+from skimage.filters import (threshold_mean, threshold_minimum, threshold_otsu,
+                             threshold_yen)
 
 
 class Effects:
